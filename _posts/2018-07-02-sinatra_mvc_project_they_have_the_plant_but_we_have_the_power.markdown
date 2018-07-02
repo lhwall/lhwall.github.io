@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra MVC Project: They Have the Plant, but We Have the Power"
-date:       2018-07-02 13:57:58 +0000
+date:       2018-07-02 09:57:59 -0400
 permalink:  sinatra_mvc_project_they_have_the_plant_but_we_have_the_power
 ---
 
